@@ -1,4 +1,7 @@
 # WebDevelopment
 CourseraModules_Solution
 
-Click here to visit: http://127.0.0.1:5500/index.html
+Click here to visit: 
+1. For Desktop:  Desktop.png
+2. For Mobile: Mobile.png
+3. For Tblet: tablet.png
